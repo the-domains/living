@@ -1,0 +1,28 @@
+name: Living
+favicon: null
+layout_spectrum: 0.5687218739185482
+typography_spectrum: 0.9320339991245419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5148224923759699
+  lightness: 0.3940225285477936
+  saturation: 0.18613738636486232
+  rhythmicContrast: 0.9729695753194392
+purpose: []
